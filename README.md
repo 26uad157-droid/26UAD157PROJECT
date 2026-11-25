@@ -43,7 +43,7 @@ If you type letters where a number should go, enter marks above 100, reuse a rol
 
 ## Screenshots
 
-Screenshots of adding, viewing and searching students are in the `screenshots/` folder.
+Five screenshots are given there.
 
 ## What I used and why
 
